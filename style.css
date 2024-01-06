@@ -1,0 +1,17 @@
+.name{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    background-color: aquamarine;
+}
+
+.tube{
+    text-align: left;
+    font-size: large;
+     
+} 
+
+.resume{
+    text-align: right;
+}
